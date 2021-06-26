@@ -12,12 +12,16 @@ class ShaxzodVC: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
 
+
         
         
         
 //        sdasdasdad
 //        as
 //    
+
+        view.backgroundColor = .red
+
         // Do any additional setup after loading the view.
     }
 
