@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		18DB9564268769A5001C73C2 /* NurilloVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18DB9562268769A5001C73C2 /* NurilloVC.swift */; };
+		18DB9565268769A5001C73C2 /* NurilloVC.xib in Resources */ = {isa = PBXBuildFile; fileRef = 18DB9563268769A5001C73C2 /* NurilloVC.xib */; };
 		DC24031426875C4B002C95D2 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = DC24031326875C4B002C95D2 /* AppDelegate.swift */; };
 		DC24031626875C4B002C95D2 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = DC24031526875C4B002C95D2 /* SceneDelegate.swift */; };
 		DC24031826875C4B002C95D2 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DC24031726875C4B002C95D2 /* ViewController.swift */; };
@@ -16,6 +18,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		18DB9562268769A5001C73C2 /* NurilloVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NurilloVC.swift; sourceTree = "<group>"; };
+		18DB9563268769A5001C73C2 /* NurilloVC.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = NurilloVC.xib; sourceTree = "<group>"; };
 		DC24031026875C4B002C95D2 /* GithubProject.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = GithubProject.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		DC24031326875C4B002C95D2 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		DC24031526875C4B002C95D2 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -40,6 +44,8 @@
 		DC24030726875C4A002C95D2 = {
 			isa = PBXGroup;
 			children = (
+				18DB9562268769A5001C73C2 /* NurilloVC.swift */,
+				18DB9563268769A5001C73C2 /* NurilloVC.xib */,
 				DC24031226875C4B002C95D2 /* GithubProject */,
 				DC24031126875C4B002C95D2 /* Products */,
 			);
@@ -124,6 +130,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				18DB9565268769A5001C73C2 /* NurilloVC.xib in Resources */,
 				DC24032026875C4F002C95D2 /* LaunchScreen.storyboard in Resources */,
 				DC24031D26875C4F002C95D2 /* Assets.xcassets in Resources */,
 				DC24031B26875C4B002C95D2 /* Main.storyboard in Resources */,
@@ -137,6 +144,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				18DB9564268769A5001C73C2 /* NurilloVC.swift in Sources */,
 				DC24031826875C4B002C95D2 /* ViewController.swift in Sources */,
 				DC24031426875C4B002C95D2 /* AppDelegate.swift in Sources */,
 				DC24031626875C4B002C95D2 /* SceneDelegate.swift in Sources */,
