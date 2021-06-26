@@ -15,12 +15,9 @@ class ShaxzodVC: UIViewController {
 
         
         
-        
-//        sdasdasdad
-//        as
-//    
+    
 
-        view.backgroundColor = .red
+        view.backgroundColor = .yellow
 
         // Do any additional setup after loading the view.
     }
