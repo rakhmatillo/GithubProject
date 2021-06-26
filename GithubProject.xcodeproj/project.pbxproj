@@ -7,8 +7,13 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+
 		4DB0871026876766006A59C8 /* Siddiqjon.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4DB0870E26876766006A59C8 /* Siddiqjon.swift */; };
 		4DB0871126876766006A59C8 /* Siddiqjon.xib in Resources */ = {isa = PBXBuildFile; fileRef = 4DB0870F26876766006A59C8 /* Siddiqjon.xib */; };
+
+		5717AE102687676200F90A97 /* ShaxzodVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5717AE0E2687676200F90A97 /* ShaxzodVC.swift */; };
+		5717AE112687676200F90A97 /* ShaxzodVC.xib in Resources */ = {isa = PBXBuildFile; fileRef = 5717AE0F2687676200F90A97 /* ShaxzodVC.xib */; };
+
 		DC24031426875C4B002C95D2 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = DC24031326875C4B002C95D2 /* AppDelegate.swift */; };
 		DC24031626875C4B002C95D2 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = DC24031526875C4B002C95D2 /* SceneDelegate.swift */; };
 		DC24031826875C4B002C95D2 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DC24031726875C4B002C95D2 /* ViewController.swift */; };
@@ -18,8 +23,13 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+
 		4DB0870E26876766006A59C8 /* Siddiqjon.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Siddiqjon.swift; sourceTree = "<group>"; };
 		4DB0870F26876766006A59C8 /* Siddiqjon.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = Siddiqjon.xib; sourceTree = "<group>"; };
+
+		5717AE0E2687676200F90A97 /* ShaxzodVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShaxzodVC.swift; sourceTree = "<group>"; };
+		5717AE0F2687676200F90A97 /* ShaxzodVC.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = ShaxzodVC.xib; sourceTree = "<group>"; };
+
 		DC24031026875C4B002C95D2 /* GithubProject.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = GithubProject.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		DC24031326875C4B002C95D2 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		DC24031526875C4B002C95D2 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -69,6 +79,8 @@
 				DC24031C26875C4F002C95D2 /* Assets.xcassets */,
 				DC24031E26875C4F002C95D2 /* LaunchScreen.storyboard */,
 				DC24032126875C4F002C95D2 /* Info.plist */,
+				5717AE0E2687676200F90A97 /* ShaxzodVC.swift */,
+				5717AE0F2687676200F90A97 /* ShaxzodVC.xib */,
 			);
 			path = GithubProject;
 			sourceTree = "<group>";
@@ -130,6 +142,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5717AE112687676200F90A97 /* ShaxzodVC.xib in Resources */,
 				DC24032026875C4F002C95D2 /* LaunchScreen.storyboard in Resources */,
 				DC24031D26875C4F002C95D2 /* Assets.xcassets in Resources */,
 				DC24031B26875C4B002C95D2 /* Main.storyboard in Resources */,
@@ -144,6 +157,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5717AE102687676200F90A97 /* ShaxzodVC.swift in Sources */,
 				DC24031826875C4B002C95D2 /* ViewController.swift in Sources */,
 				DC24031426875C4B002C95D2 /* AppDelegate.swift in Sources */,
 				DC24031626875C4B002C95D2 /* SceneDelegate.swift in Sources */,
