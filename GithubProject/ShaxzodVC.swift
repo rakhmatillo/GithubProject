@@ -12,6 +12,12 @@ class ShaxzodVC: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
 
+        
+        
+        
+//        sdasdasdad
+//        as
+//    
         // Do any additional setup after loading the view.
     }
 
